@@ -293,6 +293,9 @@ Technical articles, tutorials, experiments, and things I've learned along the wa
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent)
 
 ---
+[Read my blog →](/blog/)
+
+---
 
 # 📫 Contact
 
