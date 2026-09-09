@@ -2,7 +2,7 @@
 
 layout: default
 title: "THEREDREBEL"
------------------------------------------
+---
 
 # 👋 Hi, I'm **Your Name**
 
